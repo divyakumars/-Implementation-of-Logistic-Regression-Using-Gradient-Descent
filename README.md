@@ -116,8 +116,12 @@ print(y_prednew)
 ![image](https://github.com/user-attachments/assets/549537eb-5f99-4237-a110-36c94decbfb7)
 
 ![image](https://github.com/user-attachments/assets/46e73d75-cfec-4a9e-b831-00eaae5fde36)
+
+
 ![image](https://github.com/user-attachments/assets/1e5c231c-9212-484c-a5b7-c3f8169ab0c1)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/47b8e46c-ea0d-4653-828b-1183a6bafc8c)
+
 
 
 ## Result:
